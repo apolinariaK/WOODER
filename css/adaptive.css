@@ -1,0 +1,418 @@
+@media screen  and (max-width: 1400px) {
+    .decoration__decor-world {
+        right: 138px;
+    }
+
+    .about__decor-world {
+        right: 100px;
+    }
+}
+
+@media screen  and (max-width: 1150px) {
+
+    .container {
+        padding: 0 20px;
+    }
+
+    .header__burger {
+        display: none;
+    }
+
+    .about__decor-world {
+        right: 205px;
+    }
+}
+
+@media screen  and (max-width: 1024px) {
+
+
+    .img {
+        width: 495px;
+    }
+
+    .about__text {
+        margin-left: -112px;
+    }
+}
+
+@media screen  and (max-width: 1000px) {
+
+    .header__decor-text {
+        bottom: 0;
+    }
+
+    .img {
+        width: 450px;
+    }
+
+
+}
+
+
+@media screen  and (max-width: 950px) {
+
+    .furniture__text-indent {
+        margin-left: 0;
+    }
+
+    .line-title {
+        width: 70px;
+    }
+
+    .furniture__line-indent {
+        margin-left: -25px;
+    }
+}
+
+@media screen  and (max-width: 880px) {
+    .about__text {
+        margin-left: -8px;
+    }
+}
+
+@media screen  and (max-width: 850px) {
+
+    .quality__video {
+        flex-wrap: wrap;
+    }
+
+    .content {
+        display: block;
+    }
+
+    .content__img {
+        text-align: end;
+    }
+
+    .furniture-indent {
+        margin-bottom: 0;
+    }
+
+    .about__indent {
+        width: 420px;
+        margin: 80px auto 0 auto;
+    }
+
+    .about__text {
+        margin-left: 40px;
+    }
+
+    .about__decor-world {
+        top: 0;
+    }
+
+    .furniture__line-indent {
+        margin-left: 0;
+    }
+
+    .furniture__text-indent {
+        margin-left: 27px;
+    }
+
+
+    .header__inner-img {
+        display: none;
+    }
+}
+
+@media screen  and (max-width: 790px) {
+
+    .header__content-title {
+        margin: 138px 0 20px 170px;
+    }
+
+    .header__decor-num {
+        left: -152px;
+        top: 200px;
+    }
+
+    .header__btn {
+        margin-left: 182px;
+    }
+
+    .header__content-scroll {
+        margin-left: 187px;
+    }
+
+    .header__bg-img {
+        width: 600px;
+        height: 835px;
+    }
+
+    .furniture__text {
+        margin-bottom: 20px;
+    }
+
+    .header__content {
+        padding-bottom: 150px;
+    }
+
+    .header__menu-items {
+        position: absolute;
+        top: 80px;
+    }
+
+    .header__menu {
+        width: 400px;
+    }
+}
+
+@media screen  and (max-width: 680px) {
+    .design__title {
+        font-size: 30px;
+        margin-left: 30px;
+    }
+
+    .design__line {
+        margin-left: 0;
+    }
+
+    .footer__items {
+        flex-direction: column-reverse;
+    }
+
+    .footer__link {
+        margin: 10px 0;
+    }
+
+    .header__bg-img {
+        width: 500px;
+        height: 819px;
+    }
+
+    .header__content-title {
+        font-size: 90px;
+    }
+}
+
+@media screen  and (max-width: 615px) {
+
+    .header__btn {
+        margin-left: 153px;
+    }
+
+    .header__content-title {
+        margin-left: 105px;
+    }
+
+    .quality__info {
+        width: 100%;
+    }
+
+    .design__border {
+        width: 95%;
+        padding-left: 20px;
+    }
+
+    .design__bg-svg {
+        display: none;
+    }
+
+    .quality__video-circle {
+        margin: 0 10px;
+    }
+
+    .quality__video-item {
+        margin-bottom: 20px;
+    }
+
+    .design__text-size {
+        margin-right: 20px;
+    }
+}
+
+@media screen  and (max-width: 550px) {
+    .header__decor-num {
+        display: none;
+    }
+
+    .header__content-title {
+        margin-left: 60px;
+    }
+
+    .header__btn {
+        margin-left: 100px;
+    }
+
+    .header__content-scroll {
+        margin-left: 100px;
+    }
+
+    .header__bg-img {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@media screen  and (max-width: 470px) {
+    .img {
+        width: 430px;
+    }
+
+    .header__content-title {
+        margin-left: 40px;
+        font-size: 83px;
+    }
+
+    .header__btn {
+        margin-left: 70px;
+    }
+
+    .decoration__decor-num {
+        text-align: left;
+        margin-top: 20px;
+    }
+
+    .decoration__decor-line {
+        left: 0;
+    }
+
+    .content__img {
+        text-align: left;
+    }
+
+    .header__decor-text {
+        display: none;
+    }
+
+    .header__content {
+        padding-bottom: 110px;
+    }
+
+    .header__menu {
+        width: 55%;
+    }
+}
+
+@media screen  and (max-width: 445px) {
+
+    .header__menu-items {
+        display: none;
+    }
+
+    .header__menu-item {
+        padding: 0;
+    }
+    .menu-block {
+        display: flex;
+        justify-content: flex-end;
+        margin-top: 20px;
+        margin-right: 20px;
+    }
+
+    .design__title {
+        font-size: 26px;
+        margin-left: 0;
+        margin-right: 20px;
+    }
+
+    .design__text-size {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+
+    .design__action {
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .design__info {
+        margin: 100px auto;
+    }
+
+    .img {
+        width: 400px;
+    }
+
+    .about__text {
+        margin-left: 0;
+    }
+
+    .furniture__text-size {
+        width: 300px;
+        height: 64px;
+    }
+
+    .about__indent {
+        width: 100%;
+    }
+}
+
+@media screen  and (max-width: 430px) {
+
+    .header__content-title {
+        margin-left: 0;
+        font-size: 80px;
+        margin-top: 80px;
+    }
+
+    .header__btn {
+        margin-left: 30px;
+    }
+
+}
+
+@media screen  and (max-width: 427px) {
+    .img {
+        width: 350px;
+    }
+
+    .header__menu {
+        width: 85%;
+    }
+
+    .furniture__more-info {
+        margin-top: 50px;
+    }
+}
+
+@media screen  and (max-width: 370px) {
+
+    .header__content-title {
+        font-size: 70px;
+    }
+
+    .header__btn {
+        margin-left: 0;
+    }
+
+    .title {
+        font-size: 45px;
+    }
+
+    .title {
+        font-size: 27px;
+    }
+
+    .btn {
+        width: 278px;
+    }
+
+    .img {
+        width: 320px;
+    }
+
+    .about__bg {
+        display: none;
+    }
+
+    .decor__bg {
+        display: none;
+    }
+}
+
+@media screen  and (max-width: 340px) {
+
+    .img {
+        width: 280px;
+    }
+
+    .header__content-title {
+        font-size: 65px;
+    }
+}
+
+
+@media screen  and (max-width: 320px) {
+
+}
